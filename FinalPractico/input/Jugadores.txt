@@ -1,0 +1,35 @@
+5 Cota 0 22 Mexico
+10 Talavera 3 21 Mexico
+2 Ochoa 2 18 Mexico
+13 Reyes 1 23 Mexico
+21 Araujo 2 24 Mexico
+14 Marquez 3 21 Mexico
+11 Salcedo 1 22 Mexico
+7 Layun 2 21 Mexico
+9 Reyes 1 25 Mexico
+1 Moreno 1 29 Mexico
+6 Alanis 3 30 Mexico
+
+7 Ramos 2 18 Peru
+10 Guerrero 3 21 Peru
+5 Carrillo 3 19 Peru
+4 Trauco 2 22 Peru
+6 Cueva 3 23 Peru
+18 Rodriguez 1 25 Peru
+20 Farfan 2 27 Peru
+16 Flores 1 30 Peru
+11 Yotun 2 29 Peru
+1 Advincula 1 28 Peru
+2 Gallese 0 25 Peru
+
+23 Ronaldo 1 18 Brazil
+5 Silva 0 25 Brazil
+17 Oliveira 2 19 Brazil
+21 Pereira 2 11 Brazil
+2 Alves 1 60 Brazil
+5 Costa 1 20 Brazil
+8 Carvalho 3 21 Brazil
+16 Sousa 2 23 Brazil
+12 Rocha 3 28 Brazil
+11 Barbosa 3 30 Brazil
+15 Ferreira 1 35 Brazil

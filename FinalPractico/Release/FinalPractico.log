@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+c:\users\oscar daniel\source\repos\finalpractico\finalpractico\ArbolHeaders\Funtores.h : warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+  FinalPractico.cpp
+FinalPractico.obj : error LNK2005: "int __cdecl StrToInt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?StrToInt@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in FinalPractico.obj
+FinalPractico.obj : error LNK2005: "bool __cdecl factorOrdenacion(struct NodoLista<struct infoJugador> *,struct NodoLista<struct infoJugador> *)" (?factorOrdenacion@@YA_NPAU?$NodoLista@UinfoJugador@@@@0@Z) already defined in FinalPractico.obj
+C:\Users\Oscar Daniel\source\repos\FinalPractico\Release\FinalPractico.exe : fatal error LNK1169: one or more multiply defined symbols found
